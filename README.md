@@ -1,4 +1,4 @@
-# trans-ts
+# first-ts
 
 ## Project setup
 ```
